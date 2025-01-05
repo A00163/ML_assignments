@@ -1,8 +1,4 @@
-### README: Movie Recommendation System
-
----
-
-#### **Overview**
+## **Movie Recommendation System**
 This project is a **movie recommendation system** built using the **MovieLens 100k dataset**. The system uses collaborative filtering techniques with deep learning to predict user ratings for movies and recommend top-k movies for each user. It leverages TensorFlow and Keras for building the recommendation model.
 
 ---
